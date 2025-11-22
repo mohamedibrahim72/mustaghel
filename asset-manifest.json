@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mustaghel/static/css/main.0f1fd08b.css",
-    "main.js": "/mustaghel/static/js/main.df738a87.js",
+    "main.js": "/mustaghel/static/js/main.2ddfc10e.js",
     "index.html": "/mustaghel/index.html",
     "main.0f1fd08b.css.map": "/mustaghel/static/css/main.0f1fd08b.css.map",
-    "main.df738a87.js.map": "/mustaghel/static/js/main.df738a87.js.map"
+    "main.2ddfc10e.js.map": "/mustaghel/static/js/main.2ddfc10e.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1fd08b.css",
-    "static/js/main.df738a87.js"
+    "static/js/main.2ddfc10e.js"
   ]
 }
